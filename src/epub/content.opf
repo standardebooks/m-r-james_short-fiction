@@ -41,6 +41,7 @@
 		<meta property="term" refines="#subject-3">sh85054816</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of ghost stories written by M. R. James.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/m-r-james"&gt;Montague Rhodes James&lt;/a&gt; was a respected scholar of medieval manuscripts and early biblical history, but he is best remembered today as a writer of ghost stories. His work has been much esteemed by later writers of horror, from &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt; to Steven King.&lt;/p&gt;
