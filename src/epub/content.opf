@@ -111,8 +111,8 @@
 		<dc:contributor id="transcriber-7">Mark Akrigg</dc:contributor>
 		<meta property="file-as" refines="#transcriber-7">Akrigg, Mark</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-8">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-8">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-8">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-8">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-9">Distributed Proofreaders Canada</dc:contributor>
