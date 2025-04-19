@@ -115,8 +115,8 @@
 		<meta property="file-as" refines="#transcriber-8">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-8">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-9">The Online Distributed Proofreading Canada Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-9">Online Distributed Proofreading Canada Team, The</meta>
+		<dc:contributor id="transcriber-9">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-9">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Mike Bennett</dc:contributor>
