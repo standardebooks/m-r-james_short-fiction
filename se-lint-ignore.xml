@@ -27,5 +27,9 @@
 			<code>s-046</code>
 			<reason>This is a multi-line valediction in which each line is offset slightly differently. Using spans is the best way to do this.</reason>
 		</ignore>
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is a cipher and not a typo.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
