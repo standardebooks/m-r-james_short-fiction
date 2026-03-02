@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="a-neighbours-landmark.xhtml">
-		<ignore>
-			<code>t-057</code>
+		<ignore code="t-057">
 			<reason>Lowercase letter indicates transition in narrative form.</reason>
 		</ignore>
-		<ignore>
-			<code>t-064</code>
+		<ignore code="t-064">
 			<reason>Matched text is the continuation of a title after an interjection.</reason>
 		</ignore>
 	</file>
 	<file path="canon-alerics-scrapbook.xhtml">
-		<ignore>
-			<code>t-007</code>
+		<ignore code="t-007">
 			<reason>The apostrophe is part of the name of the book.</reason>
 		</ignore>
 	</file>
 	<file path="casting-the-runes.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>This is a multi-line valediction in which each line is offset slightly differently. Using spans is the best way to do this.</reason>
 		</ignore>
 	</file>
 	<file path="the-treasure-of-abbot-thomas.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>This is a multi-line valediction in which each line is offset slightly differently. Using spans is the best way to do this.</reason>
 		</ignore>
-		<ignore>
-			<code>y-034</code>
+		<ignore code="y-034">
 			<reason>Matched text is a cipher and not a typo.</reason>
 		</ignore>
 	</file>
